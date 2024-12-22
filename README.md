@@ -16,7 +16,6 @@ Checking installed environments
 conda env list
 ```
 
-
 ## Files
 - `metrics`: metrics for evaluating the test prioritization task.
 - `coverage`: neuron-coverage-based prioritization methods. 
