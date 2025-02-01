@@ -23,6 +23,12 @@ conda env list
 - `uncertainty`: uncertainty-based prioritization methods. 
 - `posthoc`: post-hoc methods for uncertainty-based cerprioritization. 
 
+
+## Acknowledgements
+FAST has been partially developed with the support of European Union’s [ELSA – European Lighthouse on Secure and Safe AI](https://elsa-ai.eu), Horizon Europe, grant agreement No. 101070617. 
+
+<img src="elsa.jpg" alt="elsa" style="width:70px;"/> &nbsp;&nbsp; 
+
 ## Publication 
 ```
 @inproceedings{fast,
@@ -32,4 +38,6 @@ conda env list
   year      = {2024},
 }
 ```
+
+
 
